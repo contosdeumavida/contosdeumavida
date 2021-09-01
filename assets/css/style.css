@@ -1327,3 +1327,18 @@ section {
 #footer .credits a:hover {
   color: #008df1;
 }
+
+.p_contos{
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: justify;
+}
+.h_contos{
+  text-align: center;
+  
+}
+
+.section_contos{
+  
+}
+
