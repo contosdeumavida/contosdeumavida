@@ -1332,13 +1332,12 @@ section {
   margin-left: 30%;
   margin-right: 30%;
   text-align: justify;
+  text-indent:2em 
 }
 .h_contos{
-  text-align: center;
-  
+  text-align: center; 
 }
 
-.section_contos{
-  
+a{
+  margin-bottom: 5%;
 }
-
