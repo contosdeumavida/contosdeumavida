@@ -1334,6 +1334,7 @@ section {
   text-align: justify;
   text-indent:2em 
 }
+
 .h_contos{
   text-align: center; 
 }
@@ -1350,3 +1351,9 @@ a.btn.btn-primary.btn-lg.active {
     border-color: rgb(199, 147, 70);
     font-family: "Open Sans", sans-serif;
 }
+
+/* Parte que fica em baixo do menu*/
+.baixo_menu{
+  margin-top: 5%;
+}
+
