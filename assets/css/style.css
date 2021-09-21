@@ -472,6 +472,10 @@ h1, h2, h3, h4, h5, h6 {
   #hero {
     height: 120vh;
   }
+  .p_contos{
+    width: 100%;
+    text-align: right;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -742,7 +746,9 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
-}
+  
+
+ }
 
 /*--------------------------------------------------------------
 # Story Intro
@@ -1357,3 +1363,15 @@ a.btn.btn-primary.btn-lg.active {
   margin-top: 5%;
 }
 
+@media screen and (max-width: 599px){
+  .p_contos{
+    width: 60%;
+    text-align:match-parent;
+    margin-left:20%;
+  }
+  .baixo_menu{
+    margin-top: 17%;
+  }
+  
+
+}
