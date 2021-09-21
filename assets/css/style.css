@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
   padding: 10px 0;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 0px 0px 30px rgba(22, 30, 56, 0.6);
   transition: 0.3s;
 }
 
@@ -147,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: rgb(148, 109, 50);
+  color: rgba(22, 30, 56, 0.6);
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #24325d;
+  color:  rgb(250, 184, 86);
 }
 
 .mobile-nav {
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #006fbe;
+  color: rgb(250, 184, 86);
   text-decoration: none;
 }
 
@@ -632,7 +632,7 @@ section {
 }
 
 .features .title a:hover {
-  color: #006fbe;
+  color: rgb(250, 184, 86);
 }
 
 .features .title::after {
@@ -1365,9 +1365,9 @@ a.btn.btn-primary.btn-lg.active {
 
 @media screen and (max-width: 599px){
   .p_contos{
-    width: 60%;
+    width: 70%;
     text-align:match-parent;
-    margin-left:20%;
+    margin-left:15%;
   }
   .baixo_menu{
     margin-top: 17%;
