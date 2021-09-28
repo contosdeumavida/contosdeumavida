@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgba(22, 30, 56, 0.8);
   overflow: hidden;
   position: relative;
-  margin-top: 9.8%;
+  margin-top: 9.5%;
 }
 
 #hero .carousel, #hero .carousel-inner, #hero .carousel-item, #hero .carousel-item::before {
@@ -1366,9 +1366,9 @@ a.btn.btn-primary.btn-lg.active {
 
 @media screen and (max-width: 599px){
   .p_contos{
-    width: 70%;
+    width: 75%;
     text-align:match-parent;
-    margin-left:15%;
+    margin-left:13%;
   }
   .baixo_menu{
     margin-top: 17%;
@@ -1377,29 +1377,9 @@ a.btn.btn-primary.btn-lg.active {
   .about .content .btn-learn-more{
     margin-left: 30%;
   }
-  
-
 }
 
 .p_autores{
   text-align: center;
 }
 
-.section-title h2 {
-  font-size: 14px;
-  font-weight: 500;
-  padding: 0;
-  line-height: 1px;
-  margin: 0 0 5px 0;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  color: #aaaaaa;
-}
-.section-title h2::after {
-  content: "";
-  width: 120px;
-  height: 1px;
-  display: inline-block;
-  background: #ffde9e;
-  margin: 4px 10px;
-}
