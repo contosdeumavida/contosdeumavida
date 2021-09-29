@@ -477,6 +477,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     text-align: right;
   }
+  
 }
 
 /*--------------------------------------------------------------
@@ -747,6 +748,10 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+
+  
+  
+  
   
 
  }
@@ -1364,6 +1369,8 @@ a.btn.btn-primary.btn-lg.active {
   margin-top: 5%;
 }
 
+
+/* inicio media */
 @media screen and (max-width: 599px){
   .p_contos{
     width: 75%;
@@ -1377,9 +1384,41 @@ a.btn.btn-primary.btn-lg.active {
   .about .content .btn-learn-more{
     margin-left: 30%;
   }
+
+  .img-conto{
+    width: 100%;
+  }
+
+  .h-sobre{
+    font-family: 'Oregano', cursive;
+    text-align: center;
+    margin-top: 55% !important;
+    font-size: 340% !important;
+    color:#fff;
+   
+  }
+
 }
+/* Fim media */
 
 .p_autores{
   text-align: center;
 }
+
+.img-conto{
+  width: 100%;
+}
+
+.h-sobre{
+  font-family: 'Oregano', cursive;
+  
+  text-align: center;
+  margin-top: 17%;
+  font-size: 500%;
+  color:#fff;
+  margin-bottom: 5%;
+ 
+}
+
+
 
